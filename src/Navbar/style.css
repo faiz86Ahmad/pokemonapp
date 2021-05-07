@@ -1,0 +1,11 @@
+.navbar{
+    padding:10px;
+    background-color: rgb(39, 39, 136);
+    color:#fff;
+    display:block;
+    
+}
+.navbar h2{
+  text-align: right;
+
+}
